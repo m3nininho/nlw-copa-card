@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Projeto desenvolvido pela **Rocketseat** e recriado para a o treino das tecnologias utilizadas.<br>
+Projeto desenvolvido pela **Rocketseat** e recriado para o treino das tecnologias utilizadas.<br>
 Para mudar o card, basta dar um clique.
 
 <br>
